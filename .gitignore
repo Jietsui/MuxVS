@@ -1,0 +1,6 @@
+sample_mp4/
+dist/output/
+dist/_releases_backup/
+build/
+_make_demo_files.cmd
+tempCodeRunnerFile.py
